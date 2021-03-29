@@ -1,7 +1,8 @@
 # issues-evefinance
 An issue tracker for the EVE Finance website
 
-Navigate to `issues` to open a new issue
+To open a new issue - https://github.com/IamTheHttp/issues-evefinance/issues
+To contact in game - Jenny Forsal
 
 
 ### About
